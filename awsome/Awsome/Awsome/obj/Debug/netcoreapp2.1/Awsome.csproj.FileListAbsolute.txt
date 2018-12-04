@@ -1,0 +1,11 @@
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\obj\Debug\netcoreapp2.1\Awsome.csprojAssemblyReference.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\obj\Debug\netcoreapp2.1\Awsome.csproj.CoreCompileInputs.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\obj\Debug\netcoreapp2.1\Awsome.AssemblyInfoInputs.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\obj\Debug\netcoreapp2.1\Awsome.AssemblyInfo.cs
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\bin\Debug\netcoreapp2.1\Awsome.deps.json
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\bin\Debug\netcoreapp2.1\Awsome.runtimeconfig.json
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\bin\Debug\netcoreapp2.1\Awsome.runtimeconfig.dev.json
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\bin\Debug\netcoreapp2.1\Awsome.dll
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\bin\Debug\netcoreapp2.1\Awsome.pdb
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\obj\Debug\netcoreapp2.1\Awsome.dll
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\awsome\Awsome\Awsome\obj\Debug\netcoreapp2.1\Awsome.pdb

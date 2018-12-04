@@ -1,0 +1,4 @@
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\nameInput\nameInput\nameInput\obj\Debug\netcoreapp2.1\nameInput.csprojAssemblyReference.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\nameInput\nameInput\nameInput\obj\Debug\netcoreapp2.1\nameInput.csproj.CoreCompileInputs.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\nameInput\nameInput\nameInput\obj\Debug\netcoreapp2.1\nameInput.AssemblyInfoInputs.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\nameInput\nameInput\nameInput\obj\Debug\netcoreapp2.1\nameInput.AssemblyInfo.cs
