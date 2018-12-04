@@ -1,0 +1,11 @@
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\bin\Debug\netcoreapp2.1\goib.deps.json
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\bin\Debug\netcoreapp2.1\goib.runtimeconfig.json
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\bin\Debug\netcoreapp2.1\goib.runtimeconfig.dev.json
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\bin\Debug\netcoreapp2.1\goib.dll
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\bin\Debug\netcoreapp2.1\goib.pdb
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\obj\Debug\netcoreapp2.1\goib.csprojAssemblyReference.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\obj\Debug\netcoreapp2.1\goib.csproj.CoreCompileInputs.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\obj\Debug\netcoreapp2.1\goib.AssemblyInfoInputs.cache
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\obj\Debug\netcoreapp2.1\goib.AssemblyInfo.cs
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\obj\Debug\netcoreapp2.1\goib.dll
+C:\Users\munen\Desktop\gitProjects\c#\csharpcode\helloWorld\goib\goib\obj\Debug\netcoreapp2.1\goib.pdb
